@@ -3,3 +3,4 @@ Core: Fix flag del npc ilthalaine, ahora es visible para los players https://www
 Core: Fix iniciar multiples veces misiones al nacer
 Core: Se reacomodan funciones de textos
 Core: Fix gossip npc que causa caidas al hablar con uno
+Core/Quest: Fix "El reto del instructor: Gran Bao" ya se puede completar al hablar con el npc y selecionar su menu.
