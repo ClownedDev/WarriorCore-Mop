@@ -6,3 +6,4 @@ Core: Fix gossip npc que causa caidas al hablar con uno
 Core/Quest: Fix "El reto del instructor: Gran Bao" ya se puede completar al hablar con el npc y selecionar su menu.
 Core/Mmaps: Fix desborde de memoria en mmaps.
 Database: Fix spam de lobos y arañas en bosque elwynn
+Core/Database: Fix quest En 'busca del padre' ya te permite ver su menu y continuar la mision.
